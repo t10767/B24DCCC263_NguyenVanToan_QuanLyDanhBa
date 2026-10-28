@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Primary Colors -->
+    <color name="primary_teal">#00796B</color>
+    <color name="primary_teal_dark">#004D40</color>
+    <color name="primary_teal_light">#00897B</color>
+    <color name="teal_gradient_start">#00897B</color>
+    <color name="teal_gradient_end">#004D40</color>
+
+    <!-- Stat Card Gradient -->
+    <color name="stat_gradient_start">#00695C</color>
+    <color name="stat_gradient_end">#00382E</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="bg_app">#F8FAFC</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="card_stroke">#E2E8F0</color>
+    <color name="divider_color">#F1F5F9</color>
+    <color name="input_bg">#FFFFFF</color>
+    <color name="input_stroke">#CBD5E1</color>
+    <color name="input_stroke_focused">#00796B</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_muted">#64748B</color>
+    <color name="text_hint">#94A3B8</color>
+
+    <!-- Functional Colors -->
+    <color name="star_gold">#F59E0B</color>
+    <color name="danger_red">#DC2626</color>
+    <color name="danger_red_light">#FEE2E2</color>
+
+    <!-- Group Badges -->
+    <color name="group_friend_bg">#E0F2FE</color>
+    <color name="group_friend_text">#0284C7</color>
+    <color name="group_family_bg">#FEF3C7</color>
+    <color name="group_family_text">#D97706</color>
+    <color name="group_work_bg">#EDE9FE</color>
+    <color name="group_work_text">#7C3AED</color>
+    <color name="group_other_bg">#F1F5F9</color>
+    <color name="group_other_text">#475569</color>
+
+    <!-- Default Badge (mint) -->
+    <color name="badge_bg">#E0F2F1</color>
+    <color name="badge_text">#00695C</color>
+
+    <!-- Avatars -->
+    <color name="avatar_teal">#00897B</color>
+    <color name="avatar_orange">#F97316</color>
+    <color name="avatar_purple">#8B5CF6</color>
+    <color name="avatar_blue">#3B82F6</color>
+    <color name="avatar_green">#10B981</color>
+    <color name="avatar_pink">#EC4899</color>
+
+    <!-- System -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
